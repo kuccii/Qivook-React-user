@@ -809,7 +809,7 @@ export const english = {
   "To select from saved addresses, you need to sign in.":
     "To select from saved addresses, you need to sign in.",
   "Location is required.": "Location is required.",
-  Agree: "Agree",
+  Agree: "Agree!",
   Okay: "Okay",
   Close: "Close",
   Favorites: "Favorites",
